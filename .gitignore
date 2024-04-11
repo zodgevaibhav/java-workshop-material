@@ -3,3 +3,4 @@ target
 .class
 .classpath
 .settings
+.DS_Store
